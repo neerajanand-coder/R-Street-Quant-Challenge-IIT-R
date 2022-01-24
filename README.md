@@ -1,1 +1,1 @@
-# R-Street-Quant-Challenge-IIT-Roorkee-
+# R-Street-Quant-Challenge-IIT-Roorkee
